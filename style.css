@@ -1,0 +1,43 @@
+.div {
+    background-color: gray;
+    float: left;
+    margin-top: 150px;
+}
+.h1 {
+    color: white;
+    background-color: black;
+    text-align: center;
+    text-decoration: underline;
+}
+.James {
+    padding-left: 10px;
+    color: white;
+    text-decoration: underline;
+}
+.img {
+    padding-left: 10px;
+    float: left;
+    padding-bottom: 10px;
+}
+.p {
+    color: white;
+    width: 40%;
+    float: left;
+    margin-left: 10px;
+}
+.contact {
+    color: white;
+    text-align: end;
+    padding-right: 250px;
+    position: relative;
+    bottom: 40px;
+    text-decoration: underline;
+    
+}
+.list {
+    color: white;
+    text-align: justify;
+    padding-right: 200px;
+    position: relative;
+    bottom: 40px;
+    left: 190px
